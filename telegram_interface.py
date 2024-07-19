@@ -4,11 +4,11 @@ import requests
 import MetaTrader5 as mt5
 import pandas as pd
 import numpy as np
-from databace1 import Status as st
+from databace import Status as st
 
-bot_token = "5557952268:AAEJ9KXc0dfU144eeL_3Pq2KubPX4Def5ss"
-channel_chat_id = "-1001796777535"
-my_chat_id = "1483119725"
+bot_token = "Your Token"
+channel_chat_id = "Your channal Id"
+my_chat_id = "your chat Id"
 
 
 def time_now():
